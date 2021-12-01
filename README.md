@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @WhenTheCat Know as: "e." or "whoise' on discord
-- 👀 I’m interested in ... "Roblox developement, anti-exploit framework, discord bot's, lua scripts stuff like that'
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord: https://discord.gg/dXtQUsBgSp
+Yo wsg
+- I mainly do roblox stuff, Anti-Exploits, and script hubs, I know a little bit of discord.js.
+- 2 1/2 Years Developing on roblox, little on making discord bots.
+- Contact: 
+- Discord - WhoIsE.#9106
+- Server - https://discord.gg/6maTG8jgSY
 
-<!---
-WhenTheCat/WhenTheCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
